@@ -16,8 +16,6 @@ just repo of my c++ learning path :3
 - [ ] understand memory layout (alignment, padding)
 
 - [ ] learn STL Containers
-- [ ] list / deque
-- [ ] set / map
 - [ ] unordered_map / unordered_set
 
 - [ ] learn STL Algorithms (sort, find, transform, accumulate)
@@ -35,16 +33,6 @@ just repo of my c++ learning path :3
 - [ ] learn Git basics (commits, branches, pull requests)
 
 
-## Junior Practice Projects:
-- [ ] simple rendering engine or OpenGL project
-- [ ] console applications
-- [ ] small TCP chat server
-- [ ] deep understanding of STL internals:
-      - [ ] how vector works internally
-      - [ ] how unordered_map hashing & buckets work
-      - [ ] allocators
-      - [ ] iterator invalidation rules
-
 - [ ] learn Error Handling (exceptions, optional-return design)
 - [ ] learn Clean Code & coding style guides
 
@@ -56,34 +44,35 @@ just repo of my c++ learning path :3
   - [ ] race conditions & deadlocks
 
 - [ ] learn Advanced CMake:
-      - [ ] targets
-      - [ ] presets
-      - [ ] toolchains
-      - [ ] static/shared libraries
+  - [ ] targets
+  - [ ] presets
+  - [ ] toolchains
+  - [ ] static/shared libraries
 
 - [ ] learn Sanitizers (ASan, UBSan, TSan)
 - [ ] learn clang-tidy & cppcheck
 
 - [ ] learn Profiling:
-      - [ ] valgrind
-      - [ ] perf
-      - [ ] flamegraphs
+ - [ ] valgrind
+ - [ ] perf
+ - [ ] flamegraphs
 
 - [ ] learn SOLID principles
 - [ ] learn essential design patterns
 
 - [ ] learn basic networking (sockets, async basics)
 
-### Middle Practice Projects:
-- [ ] implement your own thread pool
-- [ ] build an HTTP server
-- [ ] build a high-performance parser
-- [ ] build an ECS (Entity Component System)
+---
+##  Practice Projects:
+- [ ] console applications
+- [ ] small TCP chat server
+- [ ] deep understanding of STL internals:
+  - [ ] how vector works internally
+  - [ ] how unordered_map hashing & buckets work
+  - [ ] allocators
+  - [ ] iterator invalidation rules
 
 ---
-
-
-# === advenced openGL ===
 
 ### Advanced C++ Internals
 - [ ] deep understanding of C++ memory model
@@ -91,7 +80,9 @@ just repo of my c++ learning path :3
 - [ ] lifetime rules
 - [ ] undefined behavior mastery
 
-# Advanced Templates & Meta-Programming
+---
+
+### Advanced Templates & Meta-Programming
 - [ ] SFINAE
 - [ ] fold expressions
 - [ ] C++20 concepts
@@ -99,7 +90,10 @@ just repo of my c++ learning path :3
 - [ ] expression templates
 - [ ] TMP (template metaprogramming)
 
-# Performance Engineering
+
+---
+
+### Performance Engineering
 - [ ] CPU architecture basics
 - [ ] cache hierarchy (L1/L2/L3)
 - [ ] cache locality optimization
@@ -108,7 +102,9 @@ just repo of my c++ learning path :3
 - [ ] false sharing
 - [ ] lock-free algorithms (CAS, atomics)
 
-# High-Performance Multithreading
+---
+
+### High-Performance Multithreading
 - [ ] lock-free queues
 - [ ] RCU
 - [ ] work-stealing algorithms
@@ -116,25 +112,33 @@ just repo of my c++ learning path :3
 - [ ] coroutines (C++20)
 - [ ] NUMA-aware programming
 
-# System Programming
+---
+
+### System Programming
 - [ ] epoll / kqueue
 - [ ] async IO
 - [ ] mmap
 - [ ] shared memory
 - [ ] zero-copy techniques
 
-# Architecture & Large Systems
+---
+
+### Architecture & Large Systems
 - [ ] event-driven architecture
 - [ ] actor model
 - [ ] plugin-based systems
 - [ ] modular architecture
 - [ ] high-performance networking
 
-# Advanced Tooling
+---
+
+### Advanced Tooling
 - [ ] LTO (link-time optimization)
 - [ ] PGO (profile-guided optimization)
 
-# Senior Practice Projects:
+---
+
+### Senior Practice Projects:
 - [ ] write your own memory allocator
 - [ ] implement a lock-free queue
 - [ ] build your own small RPC framework
