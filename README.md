@@ -63,7 +63,7 @@ just repo of my c++ learning path :3
 - [ ] learn basic networking (sockets, async basics)
 
 ---
-##  Practice Projects:
+
 - [ ] console applications
 - [ ] small TCP chat server
 - [ ] deep understanding of STL internals:
