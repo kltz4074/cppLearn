@@ -12,3 +12,21 @@ _deps
 CMakeUserPresets.json
 build/
 .cache
+*.exe
+*.obj
+*.o
+
+# if you building with Visual Studio
+*.VC.db
+.vscode/
+ALL_BUILD.dir
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
+cppLearn.sln
+cppLearn.vcxproj
+cppLearn.vcxproj.filters
+ZERO_CHECK.dir
+ZERO_CHECK.vcxproj
+ZERO_CHECK.vcxproj.filters
+x64/
+Release
