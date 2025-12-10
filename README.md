@@ -6,8 +6,7 @@ My personal journey to becoming a world-class C++ developer :3
 ### 1. Tooling & Build Systems
 - [x] Set up a modern dev environment (Linux/macOS/Windows, CMake ≥ 3.28)
 - [x] Write clean, idiomatic Modern CMake (targets, presets, toolchains, interface libraries)
-- [ ] Deep dive into the full build pipeline (preprocess → compile → assemble → link)
-- [ ] Essential compiler flags (-Wall -Wextra -Werror -pedantic -O3 -march=native -flto -fno-exceptions etc.)
+- [x] learn how build pipeline (preprocess → compile → assemble → link)
 - [ ] Debugging mastery (gdb/lldb, VS Code, CLion, rr)
 - [ ] Sanitizers in daily workflow (ASan, UBSan, TSan, MSan)
 - [ ] Static analysis: clang-tidy, cppcheck, clang-format, IWYU
