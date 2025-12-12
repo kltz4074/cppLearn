@@ -1,7 +1,13 @@
 # cppLearn
 My personal journey to becoming a world-class C++ developer :3
 
-## C++ roadmap, from zero to senior
+how to build:
+```bash
+cmake cmake/
+cmake --build .. --config Release
+```
+
+## C++ roadmap, from zero to senior (i think? )
 
 ### 1. Tooling & Build Systems
 - [x] Set up a modern dev environment (Linux/macOS/Windows, CMake ≥ 3.28)
