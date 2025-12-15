@@ -121,4 +121,3 @@ cmake --build .. --config Release
 ### 15. Beyond the Language (what separates staff+ engineers)
 - [ ] Read real-world codebases: STL impl (libstdc++/libc++), Boost, Abseil, Folly, spdlog, etc.
 - [ ] Contribute to serious open-source C++ projects
-- [ ] Write technical blog posts or speak at conferences (C++ Russia, CoreHard, Meeting C++ etc.)
