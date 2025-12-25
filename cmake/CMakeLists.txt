@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 4.2.0)
 
 project(cppLearn
-    VERSION 1.0
+    VERSION 0.1
     DESCRIPTION "my personal c++ learning project"
     LANGUAGES CXX
 )
@@ -20,6 +20,7 @@ set(PARTS
     src/part1-OOP
     src/part2-DataStructures
     src/part3-algoritms
+    src/multithreading
 )
 
 foreach(PART_PATH ${PARTS})
